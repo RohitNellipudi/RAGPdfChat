@@ -12,10 +12,10 @@ This a RAG based LLM Chatbot - created by **Rohit Nellipudi**
 
 
 **More details about Application**
-- Build the applicaation using langchain
+- Build the application using langchain
 - Used FIASS DB for vector database 
-- Hugging Face embeddings for creating embeddings and stroing in DB
-- Used Mistral7B Hugging face model as LLM for converations
+- Hugging Face embeddings for creating embeddings and storing in DB
+- Used Mistral7B Hugging face model as LLM for conversations
 - Uses Streamlit for the UI elements of the application
 
 
@@ -31,7 +31,7 @@ This a RAG based LLM Chatbot - created by **Rohit Nellipudi**
 streamlit run app.py
 ```
 - Application will promt for Hugging Face API key
-- Proivde the key in the console 
+- Provide the key in the console 
 - Application will open in the browser
 - Upload your PDF
 - Ask questions related to your PDF
