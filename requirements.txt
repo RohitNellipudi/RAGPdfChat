@@ -1,0 +1,13 @@
+langchain 
+langchain-community
+torch 
+faiss-cpu 
+streamlit
+python-dotenv
+huggingface_hub 
+sentence_transformers 
+faiss-cpu 
+unstructured
+Cython 
+tiktoken
+unstructured[local-inference]
