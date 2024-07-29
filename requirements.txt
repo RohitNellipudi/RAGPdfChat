@@ -11,3 +11,5 @@ unstructured
 Cython 
 tiktoken
 unstructured[local-inference]
+pypdf2
+langchain_huggingface
